@@ -17,6 +17,17 @@ I'm a passionate software developer based in Calgary, specializing in building m
 - **Database:** PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code, Figma
 
+## 📂 Projects
+
+### [Portfolio](https://github.com/G-Antonelli/portfolio)
+A showcase of my work and skills, built using Next.js, TypeScript, and MUI.
+
+### [Project Name](#)
+Brief description of the project. [Link to GitHub](#).
+
+### [Another Project](#)
+Brief description of the project. [Link to GitHub](#).
+
 ## 📝 Blog Posts
 
 - [Latest Blog Post Title](#) - Short description of the blog post.
